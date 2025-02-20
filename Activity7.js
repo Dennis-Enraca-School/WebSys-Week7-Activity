@@ -6,11 +6,11 @@ let price = 15.5;
 let isSale = false;
 let qty = 50;
 
-console.log(typeof productName)
-console.log(typeof productId)
+console.log(typeof name)
+console.log(typeof id)
 console.log(typeof price)
-console.log(typeof isOnSale)
-console.log(typeof quantity)
+console.log(typeof isSale)
+console.log(typeof qty)
 
 let inventory = [
     {
